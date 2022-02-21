@@ -3,3 +3,12 @@
     height: 500px;
     border: none;
 }
+.campus_maindiv{
+    border: 1px solid lightgrey;
+}
+.campus_maindiv img{
+    width: 100%;
+}
+.campus_maindiv h5, .campus_maindiv p{
+    margin:20px
+}
