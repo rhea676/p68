@@ -17,3 +17,15 @@
     top:0;
     z-index: 999999;
 }
+.Acheivements_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.Acheivements_head i{
+    float: right;
+}
+.acheivementtext span{
+color: orange;
+}
